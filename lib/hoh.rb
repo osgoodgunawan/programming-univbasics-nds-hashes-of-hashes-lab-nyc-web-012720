@@ -33,10 +33,10 @@ PORTION_4 = {
 def naming_system
   
   naming_system={
-    PORTION_1,
-    PORTION_2,
-    PORTION_3,
-    PORTION_4
+    :PORTION_1,
+    :PORTION_2,
+    :PORTION_3,
+    :PORTION_4
   }
   
   naming_system
