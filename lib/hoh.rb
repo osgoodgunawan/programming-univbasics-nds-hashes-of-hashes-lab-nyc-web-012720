@@ -32,17 +32,13 @@ PORTION_4 = {
 
 def naming_system
   
-  naming_system={}
+  naming_system={
+    PORTION_1,
+    PORTION_2,
+    PORTION_3,
+    PORTION_4
+  }
   
-  # Remember:
-  #  Kingdom
-  #  Phylum
-  #  Class
-  #  Order
-  #  Family
-  #  Genus
-  #  Species
-  # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  # HoH all the way to Species!
+  naming_system
 
 end
