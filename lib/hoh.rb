@@ -32,6 +32,8 @@ PORTION_4 = {
 
 def naming_system
   
+  naming_system=
+  
   # Remember:
   #  Kingdom
   #  Phylum
